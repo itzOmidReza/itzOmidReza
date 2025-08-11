@@ -68,9 +68,7 @@ I am a Software Engineering student focused on web development. I enjoy turning 
 ## Contact & Links
 - 🌐 Website: https://omidreza.website  
 - 📧 Email: info@omidreza.website  
-- 💼 LinkedIn: *your-linkedin-url*  
-- 🐦 Twitter/X: *your-twitter-url*  
-- ✨ Figma: *your-figma-profile-or-team-link*
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/omidreza-shahbazi-4111b937a/)  
   
 ---
 
